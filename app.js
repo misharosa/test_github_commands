@@ -6,3 +6,9 @@ console.log(word)
 console.log(word)
 console.log(word)
 console.log(word)
+console.log(word)
+console.log(word)
+console.log(word)
+
+
+///////develop 2
